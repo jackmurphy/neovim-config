@@ -22,6 +22,8 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'bling/vim-bufferline'
 Plug 'fatih/vim-go'
 Plug 'vim-ruby/vim-ruby'
+Plug 'pearofducks/ansible-vim'
+Plug 'evanmiller/nginx-vim-syntax'
 
 " Add plugins to &runtimepath
 call plug#end()
